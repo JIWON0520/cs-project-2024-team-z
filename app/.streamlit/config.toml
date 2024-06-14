@@ -1,0 +1,12 @@
+# .streamlit/config.toml
+
+[theme]
+# 기본 컬러 및 폰트 설정
+base="light"
+primaryColor="#FF69B4"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#FFC0CB"
+textColor="#000000"
+
+# 폰트 설정 (옵션)
+font="sans serif"
